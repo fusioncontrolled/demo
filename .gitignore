@@ -1,0 +1,7 @@
+*/*/.adf
+*/*/.data
+*/*/src
+*/*/*/deploy
+*/*/*/SOA/BPEL/.designer
+*/*/*/SOA/SCA-INF
+*/*/*/SOA/testsuites
